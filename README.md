@@ -3,9 +3,10 @@
 **fwt2** is a command-line tool that performs a Fast Wavelet Transform on a series of numbers, decomposing an input array into wavelet coefficients and (optionally) performing the inverse transform.
 
 This project is based off the fwt code found here:
-https://github.com/bindatype/fwt
----
 
+https://github.com/bindatype/fwt
+
+---
 ## Features
 
 - Supports **1, 2, or 3 columns** of input data (value; timestamp + value; or timestamp + value + uncertainty).  
