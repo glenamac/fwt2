@@ -63,9 +63,9 @@ cat data.txt | ./fwt2 -c12 --offset 3
 
 ## Input Format
 
-1 column: each line is a value; index = line number; uncertainty = √value
-2 columns: index value; uncertainty = √value
-3 columns: index value uncertainty
+-1 column: each line is a value; index = line number; uncertainty = √value
+-2 columns: index value; uncertainty = √value
+-3 columns: index value uncertainty
 All series must have length 2^m.
 
 ## Output
