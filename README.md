@@ -66,16 +66,17 @@ cat data.txt | ./fwt2 -c12 --offset 3
 1. column: each line is a value; index = line number; uncertainty = √value
 2. columns: index value; uncertainty = √value
 3. columns: index value uncertainty
+
 All series must have length 2^m.
 
 ## Output
 
-Two-column ASCII:
+### Two-column ASCII:
 
 Index (same as input or line number)
 Transformed coefficient (interleaved approximation and detail)
 Author & License
-
+---
 Written by Glen Alan MacLachlan (bindatype@gmail.com).
 Released under GPL v3; see the LICENSE file for details.
 
