@@ -76,7 +76,9 @@ All series must have length 2^m.
 Index (same as input or line number)
 Transformed coefficient (interleaved approximation and detail)
 Author & License
+
 ---
+
 Written by Glen Alan MacLachlan (bindatype@gmail.com).
 Released under GPL v3; see the LICENSE file for details.
 
