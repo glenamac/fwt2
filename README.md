@@ -2,6 +2,8 @@
 
 **fwt2** is a command-line tool that performs a Fast Wavelet Transform on a series of numbers, decomposing an input array into wavelet coefficients and (optionally) performing the inverse transform.
 
+### This is based off the fwt code found here:
+https://github.com/bindatype/fwt
 ---
 
 ## Features
